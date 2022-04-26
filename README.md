@@ -1,22 +1,15 @@
-### Hi there 👋
+Hi 👋 My name is Prafull Saxena 
+===============================  
 
-<!--
-**PrafullSaxena/PrafullSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer 
+--------------------  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Hi 👋 My name is Prafull Saxena ===============================  Full Stack Developer --------------------  * 🌍  I'm based in Banglore * 🖥️  See my portfolio at [prafullsaxena.com](http://prafull-portfollio-a8c0f.web.app/) * ✉️  You can contact me at [ps.prafullsaxena@gmail.com](mailto:ps.prafullsaxena@gmail.com) * 🚀  I'm currently working on [Sorting Visuliser](http://sort-vis.web.app) * 🧠  I'm learning React and Spring Security * 🤝  I'm open to collaborating on Any Web based and Python automation based projects
+* 🌍  I'm based in Banglore 
+* 🖥️  See my portfolio at [prafullsaxena.com](http://prafull-portfollio-a8c0f.web.app/) 
+* ✉️  You can contact me at [ps.prafullsaxena@gmail.com](mailto:ps.prafullsaxena@gmail.com) 
+* 🚀  I'm currently working on [Sorting Visuliser](http://sort-vis.web.app) 
+* 🧠  I'm learning React and Spring Security 
+* 🤝  I'm open to collaborating on Any Web based and Python automation based projects
 
 <a href="https://www.github.com/PrafullSaxena" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PrafullSaxena?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 ### Skills
