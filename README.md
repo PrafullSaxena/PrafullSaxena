@@ -1,10 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on Java Full Stack<br>👯 I’m looking to collaborate on WebDev (JFS or MERN)<br>🌱 I’m currently learning Node and Electron<br>💬 Ask me about web Dev, Java, and Backend Development<br>
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
       
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100007032421000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prafullsaxena__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prafullsaxena) 
